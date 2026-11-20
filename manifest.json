@@ -1,0 +1,10 @@
+{
+  "name": "OrbitWebTools — All-in-One Free AI Detector (Text, Image & Code)",
+  "short_name": "Free AI Detector",
+  "description": "Free 3-in-1 browser-based AI Detector for Text, Images (EXIF/C2PA forensics), and Source Code. Unlimited scans, no login, 100% private.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "categories": ["education", "productivity", "utilities"]
+}
